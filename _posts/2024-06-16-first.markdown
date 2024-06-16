@@ -6,3 +6,4 @@ categories: github
 ---
 
 github blog posting 드디어 됐다 미친 깃허브블로그
+뒤로 가기랑 목록 만드는 거 어케 안 되나.....................
