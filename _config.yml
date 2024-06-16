@@ -1,6 +1,7 @@
 title: hy25u's blog
 author: che0nhy25u
 email: 220246058@sungshin.ac.kr
+url : "https://che0nhy25u.github.io"
 description: > # this means to ignore newlines until "show_exerpts:"
   정보보안 공부 블로그
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -9,6 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
+
 plainwhite:
   name: che0nhy25u
   tagline: Developer. security engineering
@@ -24,9 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    #twitter: samarsault
+    github:  che0nhy25u
+    #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -36,7 +38,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: 220246058@sungshin.ac.kr
 
     # Mastodon instances
     # mastodon:
