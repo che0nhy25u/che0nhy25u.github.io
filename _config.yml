@@ -26,6 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   
+  #navigation : 
+  #  - title : Study
+  #    url : "/study"
   
 
   social_links:
