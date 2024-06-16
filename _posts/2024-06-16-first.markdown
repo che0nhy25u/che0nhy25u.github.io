@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "first posting"
-date:   2024-06-16 21:03:36 +0530
+date:   2024-06-16  +
 categories: github 
 ---
 
-github blog posting
+github blog posting 드디어 됐다 미친 깃허브블로그
