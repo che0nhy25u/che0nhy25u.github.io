@@ -25,6 +25,13 @@ plainwhite:
     - page
     - post
   # generate social links in footer
+  
+  navigation:
+    - title : Study
+      url : "/study"
+      - subtitle : Rust
+        url : "/rust"
+
   social_links:
     #twitter: samarsault
     github:  che0nhy25u
